@@ -1,0 +1,321 @@
+9. Economics
+Question: What is the currency of Japan?
+
+A) Yen
+B) Dollar
+C) Euro
+D) Won
+
+Answer: A) Yen
+
+10. Physics
+Question: What is the speed of light in a vacuum?
+
+A) 299,792 km/s
+B) 300,000 km/s
+C) 150,000 km/s
+D) 250,000 km/s
+
+Answer: A) 299,792 km/s
+
+11. Biology
+Question: What is the powerhouse of the cell?
+
+A) Nucleus
+B) Ribosome
+C) Mitochondria
+D) Endoplasmic Reticulum
+
+Answer: C) Mitochondria
+
+12. Astronomy
+Question: What is the closest planet to the Sun?
+
+A) Venus
+B) Earth
+C) Mercury
+D) Mars
+
+Answer: C) Mercury
+
+13. Chemistry
+Question: What is the most abundant gas in Earth's atmosphere?
+
+A) Oxygen
+B) Carbon Dioxide
+C) Nitrogen
+D) Argon
+
+Answer: C) Nitrogen
+
+14. Sports
+Question: In which sport would you perform a slam dunk?
+
+A) Tennis
+B) Football
+C) Basketball
+D) Soccer
+
+Answer: C) Basketball
+
+15. Computer Science
+Question: What does CPU stand for?
+
+A) Central Processing Unit
+B) Central Power Unit
+C) Computer Processing Unit
+D) Central Program Unit
+
+Answer: A) Central Processing Unit
+
+16. Medicine
+Question: What is the main function of white blood cells?
+
+A) Transport oxygen
+B) Fight infection
+C) Carry nutrients
+D) Assist in digestion
+
+Answer: B) Fight infection
+
+17. Geology
+Question: What is the most common mineral in the Earth's crust?
+
+A) Quartz
+B) Feldspar
+C) Mica
+D) Olivine
+
+Answer: B) Feldspar
+
+18. Psychology
+Question: Who is considered the father of psychoanalysis?
+
+A) Carl Rogers
+B) B.F. Skinner
+C) Sigmund Freud
+D) Jean Piaget
+
+Answer: C) Sigmund Freud
+
+19. Economics
+Question: What does GDP stand for?
+
+A) Gross Domestic Product
+B) Gross Development Product
+C) Gross Departmental Product
+D) General Domestic Product
+
+Answer: A) Gross Domestic Product
+
+20. Literature
+Question: Who wrote "1984"?
+
+A) Aldous Huxley
+B) George Orwell
+C) Ray Bradbury
+D) J.K. Rowling
+
+Answer: B) George Orwell
+
+21. Biology
+Question: What is the process by which plants make their food?
+
+A) Photosynthesis
+B) Respiration
+C) Digestion
+D) Fermentation
+
+Answer: A) Photosynthesis
+
+22. History
+Question: In which year did the Titanic sink?
+
+A) 1905
+B) 1912
+C) 1923
+D) 1931
+
+Answer: B) 1912
+
+23. Mathematics
+Question: What is the square root of 81?
+
+A) 7
+B) 8
+C) 9
+D) 10
+
+Answer: C) 9
+
+24. Physics
+Question: Who is known for the theory of relativity?
+
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Nikola Tesla
+
+Answer: B) Albert Einstein
+
+25. Chemistry
+Question: What is the chemical formula for water?
+
+A) H2O
+B) CO2
+C) O2
+D) NaCl
+
+Answer: A) H2O
+
+26. Geography
+Question: What is the capital of Australia?
+
+A) Sydney
+B) Melbourne
+C) Canberra
+D) Brisbane
+
+Answer: C) Canberra
+
+27. Technology
+Question: What does URL stand for?
+
+A) Uniform Resource Locator
+B) Universal Resource Locator
+C) Uniform Retrieval Locator
+D) Universal Retrieval Locator
+
+Answer: A) Uniform Resource Locator
+
+28. Art
+Question: Which artist is known for the "Starry Night"?
+
+A) Claude Monet
+B) Vincent Van Gogh
+C) Pablo Picasso
+D) Henri Matisse
+
+Answer: B) Vincent Van Gogh
+
+29. Music
+Question: What is the term for a musical composition for a full orchestra?
+
+A) Symphony
+B) Sonata
+C) Concerto
+D) Quartet
+
+Answer: A) Symphony
+
+30. Astronomy
+Question: What is the largest planet in our solar system?
+
+A) Earth
+B) Saturn
+C) Jupiter
+D) Neptune
+
+Answer: C) Jupiter
+
+31. Sports
+Question: In which country did the game of soccer originate?
+
+A) France
+B) Brazil
+C) Italy
+D) England
+
+Answer: D) England
+
+32. Computer Science
+Question: What does RAM stand for?
+
+A) Random Access Memory
+B) Read Access Memory
+C) Random Application Memory
+D) Read Application Memory
+
+Answer: A) Random Access Memory
+
+33. Medicine
+Question: Which vitamin is primarily obtained from sunlight?
+
+A) Vitamin A
+B) Vitamin B12
+C) Vitamin C
+D) Vitamin D
+
+Answer: D) Vitamin D
+
+34. Geology
+Question: What type of rock is formed from lava?
+
+A) Sedimentary
+B) Metamorphic
+C) Igneous
+D) Marble
+
+Answer: C) Igneous
+
+35. Psychology
+Question: What is the study of human behavior and mental processes called?
+
+A) Sociology
+B) Psychology
+C) Psychiatry
+D) Anthropology
+
+Answer: B) Psychology
+
+36. Economics
+Question: What is the term for a market structure with only one producer or seller?
+
+A) Monopoly
+B) Oligopoly
+C) Perfect Competition
+D) Monopolistic Competition
+
+Answer: A) Monopoly
+
+37. Literature
+Question: Who wrote "To Kill a Mockingbird"?
+
+A) Harper Lee
+B) Mark Twain
+C) J.D. Salinger
+D) F. Scott Fitzgerald
+
+Answer: A) Harper Lee
+
+38. Biology
+Question: What is the primary function of the ribosomes in a cell?
+
+A) Protein synthesis
+B) Energy production
+C) DNA replication
+D) Cell division
+
+Answer: A) Protein synthesis
+
+39. History
+Question: Who was the first man to walk on the moon?
+
+A) Yuri Gagarin
+B) Neil Armstrong
+C) Buzz Aldrin
+D) Michael Collins
+
+Answer: B) Neil Armstrong
+
+40. Mathematics
+Question: What is the value of the angle sum in a triangle?
+
+A) 90 degrees
+B) 180 degrees
+C) 270 degrees
+D) 360 degrees
+
+
+
+

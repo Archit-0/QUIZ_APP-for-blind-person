@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react"
 import { useDispatch } from "react-redux";
-// import { getServerData } from "../helper/helper";
+import { getServerData } from "../helper/helper";
 
 /** redux actions */
 import * as Action from '../redux/question_reducer'
-import data, { answers } from "../components/Database/data";
 
+/** fetch question hook to fetch api data and set value to store */
 export const useFetchQestion = () => {
     const dispatch = useDispatch();   
     const [getData, setGetData] = useState({ isLoading : false, apiData : [], serverError: null});
@@ -16,14 +16,14 @@ export const useFetchQestion = () => {
         /** async function fetch backend data */
         (async () => {
             try {
-                // const [{ questions, answers }] = await getServerData(`${process.env.REACT_APP_SERVER_HOSTNAME}/api/questions`, (data) => data)
-                let question = await data;
-                if(question.length > 0){
+                const [{ questions, answers }] = await getServerData(`${process.env.REACT_APP_SERVER_HOSTNAME}/api/questions`, (data) => data)
+                
+                if(questions.length > 0){
                     setGetData(prev => ({...prev, isLoading : false}));
-                    setGetData(prev => ({...prev, apiData : {question ,answers}}));
+                    setGetData(prev => ({...prev, apiData : questions}));
 
                     /** dispatch an action */
-                    dispatch(Action.startExamAction({question ,answers}))
+                    dispatch(Action.startExamAction({ question : questions, answers }))
 
                 } else{
                     throw new Error("No Question Avalibale");
@@ -38,6 +38,7 @@ export const useFetchQestion = () => {
     return [getData, setGetData];
 }
 
+
 /** MoveAction Dispatch function */
 export const MoveNextQuestion = () => async (dispatch) => {
     try {
@@ -47,6 +48,7 @@ export const MoveNextQuestion = () => async (dispatch) => {
     }
 }
 
+/** PrevAction Dispatch function */
 export const MovePrevQuestion = () => async (dispatch) => {
     try {
         dispatch(Action.movePrevAction()); /** decrease trace by 1 */
